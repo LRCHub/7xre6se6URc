@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "先生のこと好きになっちゃう (Short Ver.)",
+  "base_artist": "式浦躁吾",
+  "createdAt": "2026-03-15T15:06:35.876859Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "先生のこと好きになっちゃう",
+      "artist": "式浦躁吾",
+      "has_synced": false,
+      "path": "select/pl_01_先生のこと好きになっちゃう_式浦躁吾.txt"
+    }
+  ]
+}
